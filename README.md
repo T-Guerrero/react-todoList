@@ -1,7 +1,7 @@
 # Todo List
 
 ## About
-  A basic todo List implemented with React for learning.
+A basic todo list implemented with React for learning.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -10,12 +10,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   * Class components
 
 ## Running
-In the project directory, you can run:
+Run the following commands to start the server at `localhost:3000`:
 
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+```bash
+$> yarn install
+$> yarn start
+```
